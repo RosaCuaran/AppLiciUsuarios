@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.codigoj.liciu.PublicationActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:layout_margin="@dimen/cardview_default_radius"
+            android:layout_centerHorizontal="true">
+
+            <include layout="@layout/publication"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                android:id="@+id/card"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent">
+            </include>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_below="@+id/card"
+                android:background="@color/cardview_light_background"
+                android:layout_gravity="center_horizontal">
+                <Button
+                    android:id="@+id/btn_charge_coupon"
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:paddingRight="@dimen/paddingLeftRight_button"
+                    android:paddingLeft="@dimen/paddingLeftRight_button"
+                    android:textAllCaps="false"
+                    android:textSize="@dimen/textSize_Button"
+                    android:layout_marginBottom="@dimen/btn_marginTop_Normal"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_charge_coupon"
+                    android:background="@drawable/btn_login"
+                    android:onClick="viewReserveCoupons"
+                    android:textColor="@android:color/white"
+                    style="@style/Widget.AppCompat.Button.Borderless.Colored"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

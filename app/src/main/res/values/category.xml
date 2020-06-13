@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <array name="array_subcategory">
+        <item>@array/catRumba</item>
+        <item>@array/catEventos</item>
+        <item>@array/catEmpresarial</item>
+        <item>@array/catBaresyRestaurantes</item>
+        <item>@array/catDiversionyocio</item>
+        <item>@array/catcine</item>
+        <item>@array/catEducacion</item>
+        <item>@array/catCompras</item>
+        <item>@array/catDeportes</item>
+        <item>@array/catAutos</item>
+        <item>@array/catMotos</item>
+        <item>@array/catViaje</item>
+        <item>@array/catSaludybelleza</item>
+        <item>@array/catVivienda</item>
+    </array>
+
+    <!--Subcategorias-->
+    <string-array name="catRumba">
+        <item>Sin subcategoría</item>
+    </string-array>
+    <string-array name="catEventos">
+        <item>Sociales</item>
+        <item>Culturales</item>
+    </string-array>
+    <string-array name="catEmpresarial">
+        <item>Sin subcategoría</item>
+    </string-array>
+    <string-array name="catBaresyRestaurantes">
+        <item>Bares</item>
+        <item>Restaurantes</item>
+    </string-array>
+    <string-array name="catDiversionyocio">
+        <item>Sin subcategoría</item>
+    </string-array>
+    <string-array name="catcine">
+        <item>Sin subcategoría</item>
+    </string-array>
+    <string-array name="catEducacion">
+        <item>Infantil</item>
+        <item>Básica</item>
+        <item>Superior</item>
+        <item>Complementaria</item>
+    </string-array>
+    <string-array name="catCompras">
+        <item>Tecnología</item>
+        <item>Ropa y accesorios</item>
+        <item>Hogar</item>
+        <item>Infantil</item>
+    </string-array>
+    <string-array name="catDeportes">
+        <item>Ciclismo</item>
+        <item>Futbol</item>
+        <item>Gym</item>
+        <item>Patinaje</item>
+        <item>Natación</item>
+        <item>Artes marciales</item>
+    </string-array>
+    <string-array name="catAutos">
+        <item>Concesionarios</item>
+        <item>Tuning</item>
+        <item>Clubes</item>
+    </string-array>
+    <string-array name="catMotos">
+        <item>Concesionarios</item>
+        <item>Tuning</item>
+        <item>Clubes</item>
+    </string-array>
+    <string-array name="catViaje">
+        <item>Empresarial</item>
+        <item>Vacaciones</item>
+    </string-array>
+    <string-array name="catSaludybelleza">
+        <item>sin subcategoría</item>
+    </string-array>
+    <string-array name="catVivienda">
+        <item>Compra - venta</item>
+        <item>Arriendo</item>
+    </string-array>
+</resources>

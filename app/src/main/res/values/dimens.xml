@@ -1,0 +1,40 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="margin_left_image">24dp</dimen>
+    <dimen name="margin_right_image">24dp</dimen>
+    <dimen name="margin_bottom_top_image">16dp</dimen>
+    <dimen name="font_title_size">24sp</dimen>
+    <dimen name="title_margin_top">16dp</dimen>
+    <dimen name="edit_text_padding">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="layout_object">8dp</dimen>
+    <dimen name="np_right_margin">36dp</dimen>
+    <dimen name="layout_margin">2dp</dimen>
+    <dimen name="paddingTopBottom_icon">4dp</dimen>
+    <dimen name="paddingLeftRight_icon">4dp</dimen>
+    <dimen name="paddingTop_cardview_pub">8dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="cardview_margin_button_top">16dp</dimen>
+    <dimen name="title_nav_fontsize">32dp</dimen>
+    <dimen name="layout_marginTop_button_form">24dp</dimen>
+    <dimen name="paddingLeftRight_button">32dp</dimen>
+    <dimen name="textSize_Button">22sp</dimen>
+    <dimen name="textSize_Titles">28sp</dimen>
+
+    <!--SlideIntro-->
+    <!--Intro-Slider-->
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_bottom_margin">85dp</dimen>
+    <dimen name="img_width">170dp</dimen>
+    <dimen name="img_height">170dp</dimen>
+    <dimen name="paddingButtonSlide">56dp</dimen>
+    <dimen name="btn_marginTop_Normal">8dp</dimen>
+    <dimen name="cast_expanded_controller_control_button_margin">24dp</dimen>
+    <dimen name="cast_expanded_controller_control_toolbar_min_height">56dp</dimen>
+
+</resources>

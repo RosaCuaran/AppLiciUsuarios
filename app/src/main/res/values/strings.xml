@@ -1,0 +1,143 @@
+<resources>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <!--Title app-->
+    <string name="app_name">Lici</string>
+    <!--Title activities-->
+    <string name="politics">POLÍTICAS</string>
+    <string name="about">NOSOTROS</string>
+    <string name="coupons">Mis cupones</string>
+    <string name="search">Búsqueda</string>
+    <string name="company_profile">Empresa</string>
+    <string name="title_activity_maps">Como llegar</string>
+
+    <!--Navegation Drawer-->
+    <string name="navigation_drawer_open">Abrir navegación</string>
+    <string name="navigation_drawer_close">Cerrar navegación</string>
+    <string name="card_default_date">dd/MM/yyyy</string>
+    <string name="title_activity_login">Iniciar Sesion</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo electronico</string>
+    <string name="prompt_password">clave</string>
+    <string name="prompt_name">Nombre</string>
+    <string name="prompt_birthdate">Fecha de nacimiento</string>
+    <string name="prompt_gender">sexo</string>
+    <string name="action_sign_in">Registrar</string>
+    <!--Login-->
+    <string name="hint_email">Correo electronico</string>
+    <string name="hint_password">clave</string>
+    <string name="btn_log_in">Ingresar</string>
+    <string name="log_in_like">Iniciar sesión con</string>
+    <string name="logging_in">Iniciando Sesión...</string>
+    <string name="error_login">No se logró iniciar sesión</string>
+    <string name="title_login">correo electronico</string>
+    <string name="cancel_login">Se cancelo la operación</string>
+    <string name="error_login_with_credential">Credencial de facebook invalida</string>
+    <string name="txtValidateEmail">Email invalido. Ej: usuario@ejemplo.com</string>
+    <string name="txtValidatePassword">La contraseña debe tener 6 caracteres o más, en donde incluya al menos 1 numero, al menos 1 letra minúscula y al menos 1 letra mayúscula.</string>
+
+    <array name="pref_gender_titles">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </array>
+
+    <!--Politics-->
+    <string name="tvTitleConditions">CONDICIONES DE USO</string>
+    <string name="tvParagraphConditions">El usuario se compromete a utilizar LICI y todo su contenido de acuerdo a los presentes términos y condiciones de uso:
+Reconoce y acepta que el uso de los contenidos ofrecidos por LICI será bajo su exclusivo riesgo y/o responsabilidad.
+Se compromete hacer uso adecuado del contenido de LICI, y a no emplearlo para realizar actividades ilícitas o constitutivas de delitos que infrinjan con las normas y leyes establecidas.
+El usuario acepta que la aplicación móvil LICI acceda a las aplicaciones de su teléfono móvil como ubicación, almacenamiento, cámara y calendario.
+LICI tendrá acceso únicamente a la información otorgada por el usuario en el momento del registro en la aplicación.
+Las notificaciones generadas por la aplicación móvil LICI, serán autorizadas previamente por el usuario de acuerdo con sus intereses.
+EL uso de los cupones generados por las empresas afiliadas a LICI y que sean redimidos por los usuarios, tienen relación exclusivamente con la entidad promotora, la que es responsable de su contenido y promoción, así como sus condiciones y restricciones de acuerdo a su publicación.
+El contenido que ingrese el usuario en el momento registrarse en la aplicación (nombre de usuario, foto de perfil, información) debe estar exento de:
+
+contenidos de carácter racista, xenófobo, pornográfico, violencia o material que atente contra los derechos humanos.
+Contenido que atente contra los derechos fundamentales y las libertades públicas.
+Programas de datos (virus y software nocivo) susceptibles de provocar daños en los sistemas informáticos.
+Contenido que viole los derechos de propiedad intelectual e industrial.
+Material que suponga una violación a la legislación de datos de carácter personal.</string>
+    <string name="tvTitleRestrict">RESTRICCIONES</string>
+    <string name="tvParagraphRestrict">Menores de edad.
+Para hacer uso de las funciones y servicios de la aplicación móvil LICI, el usuario debe ser mayor de edad. El acceso a la aplicación será restringido para usuarios menores de 18 años.</string>
+    <string name="tvTitleDuration">DURACIÓN Y TERMINACIÓN</string>
+    <string name="tvParagraphDuration">Los contenidos y servicios de LICI tienen una duración indefinida. Sin prejuicio de lo anterior, eCreations S.A.S puede dar por terminada o interrumpir, en cualquier momento y sin previo aviso, la prestación del servicio en caso de que el usuario falte a las condiciones de uso aquí estipuladas.</string>
+    <string name="tvTitlePolitics">POLÍTICAS DE PRIVACIDAD</string>
+    <string name="tvParagraphPolitics">LICI pone a disposición de los usuarios las &lt;a href="http://liciapp.com/info/politicas-lici.html">políticas del tratamiento y uso de los datos personales&lt;/a> que permiten el correcto funcionamiento de la aplicación móvil.</string>
+
+    <!--Intro-Slider-->
+    <string name="next">Siguiente</string>
+    <string name="skip">Saltar</string>
+    <string name="start">Empezar</string>
+    <string name="txtIntro1">Manténte informado de los mejores descuentos y eventos de tu ciudad.</string>
+    <string name="txtIntro2">Encuentra los mejores productos y servicios en un solo lugar.</string>
+    <string name="txtIntro3">cuentanos tus intereses y descubre lo que lici tiene para ti.</string>
+
+    <!--id for FACEBOOK -->
+    <string name="facebook_app_id">946559195485022</string>
+    <string name="fb_login_protocol_scheme">fb946559195485022</string>
+
+    <!--Signin-->
+    <string name="txtValidateBirthdate">La fecha debe haber pasado. El formato debe ser dd/MM/yyyy</string>
+    <string name="txtValidateFormatBirthdate">dd/MM/yyyy</string>
+    <string name="txtValidateName">El nombre es requerido</string>
+    <string name="auth_failed">El registro falló</string>
+    <string name="auth_successful">El usuario ha sido registrado!</string>
+    <string name="signin_progress">Registrando...</string>
+    <string name="auth_failed_email_on_use">El correo ya esta registrado en otra cuenta.</string>
+    <string name="auth_failed_not_conection">Verifique su conexion a internet.</string>
+    <string name="txt_login">Ingresar</string>
+    <string name="txt_signup">registrarse</string>
+    <string name="btn_company_profile">Perfil de Empresa</string>
+    <string name="btn_how_to_get">Como llegar</string>
+    <string name="btn_reserve_coupon">Reservar cupón</string>
+    <string name="prompt_coupons_available">Cupones disponibles : %d</string>
+    <string name="txtValidatePolitics">Para registrarte debes aceptar nuestras politicas.</string>
+    <string name="prompt_TvNameCompany">Nombre empresa</string>
+    <string name="prompt_tvDescription">Descripcion de la empresa</string>
+    <string name="title_signup_with_email">Registrar con correo</string>
+    <string name="title_signup_with">Registrar con</string>
+
+    <!--About-->
+    <string name="tv_version">Versión 1.0</string>
+    <string name="tv_name_ecreations">eC Technology</string>
+    <string name="tv_all_rights_reserved">Todos los derechos reservados</string>
+    <string name="tvNameJhon">Jhon Mac Billy Martínez Narváez</string>
+    <string name="tvTitleCreditsDevelopment">DESARROLLO</string>
+    
+    <!--Coupons-->
+    <string name="btn_charge_coupon">Cobrar cupón</string>
+
+    <!--Profile-->
+    <string name="title_profile">Perfil</string>
+    <string name="prompt_category">Elija una categoria</string>
+    <string name="prompt_subCategory">Elija una subcategoria</string>
+    <string name="text_profile">Para mejorar tu experiencia en la aplicación selecciona tus intereses...</string>
+    <string name="loading">Cargando...</string>
+    <array name="array_profile_category_titles">
+        <item>Rumba</item>
+        <item>Eventos</item>
+        <item>Empresarial</item>
+        <item>Bares y Restaurantes</item>
+        <item>Diversión y ocio</item>
+        <item>cine</item>
+        <item>Educación</item>
+        <item>Compras</item>
+        <item>Deportes</item>
+        <item>Autos</item>
+        <item>Motos</item>
+        <item>Viaje</item>
+        <item>Salud y belleza</item>
+        <item>Vivienda</item>
+    </array>
+
+    <string name="processing_data">Procesando datos...</string>
+    <string name="promt_message_cuopon_reserved">Tu cupón ha sido reservado para cobrarlo ve a tu lista de cupones en el menu principal</string>
+    <string name="msg_confirm_charge_coupon">Recuerda que debes cobrar el cupón cuando pagues la cuenta.</string>
+    <string name="msg_charge_coupon">Recuerda mostrar el codigo en caja</string>
+    <string name="login_facebook_msg">Espera por favor, mientras se cargan los datos...</string>
+    <string name="error_login_email_and_adults">El acceso es autorizado solo para mayores de edad. Tu cuenta debe tener un correo registrado.</string>
+    <string name="add_category">+</string>
+    <string name="without_subcategory">Sin subcategoria</string>
+
+</resources>
